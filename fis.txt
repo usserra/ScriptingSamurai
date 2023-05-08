@@ -1,0 +1,8 @@
+********************Mon May  8 21:09:36 2023
+RESTORAN FISI
+Isim:d\d 
+Soyisim: d
+0110
+Toplam fiyat: 10 
+Odeme turu: kart
+********************
