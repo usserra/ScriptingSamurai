@@ -1,6 +1,33 @@
-Thu May 11 20:52:07 2023
+
+ 
+
+----------------------------------------Thu May 11 22:21:53 2023
  RESTORANT FİŞİ
  İsim/Soyisim: s
- ToplamFiyat: 0
+ ToplamFiyat: 17
  ÖdemeTürü: kart
- 
+ nohutlu	17	
+
+----------------------------------------
+Thu May 11 22:22:37 2023
+ RESTORANT FİŞİ
+ İsim/Soyisim: s
+ ToplamFiyat: 17
+ ÖdemeTürü: kart
+ nohutlu	17	
+
+----------------------------------------
+Thu May 11 22:23:09 2023
+ RESTORANT FİŞİ
+ İsim/Soyisim: s
+ ToplamFiyat: 21
+ ÖdemeTürü: kart
+ bulgur	21	
+
+----------------------------------------
+Thu May 11 22:24:02 2023
+ RESTORANT FİŞİ
+ İsim/Soyisim: s
+ ToplamFiyat: 38
+ ÖdemeTürü: kart
+ bulgur	21	nohutlu	17	
