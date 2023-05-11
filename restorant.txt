@@ -1,0 +1,23 @@
+GÜNLÜK YAPILAN SATIŞLAR
+ Margarita : 0
+ VeggiePizza: 0
+ EtliPizza: 0
+ Mercimek: 0
+ Yayla Çorbası: 0
+ Tarhana Çorbası: 0
+ Spagetti Makarna: 0
+ Kelebek Makarna: 0
+ Boncuk Makarna: 0
+ Nohutlu Pilav: 0
+ Tavuklu Pilav: 0
+ Bulgur Pilavı: 0
+ Coca Cola: 0
+ Ayran: 0
+ IceTea: 0
+ Fanta: 0
+ MeyveSuyu: 0
+ GİDERLER
+ Kira: 5
+ ÇalışanÜcretleri: 10
+ Faturalar: 5
+ Alışveriş:5 AylıkKazanç: -25
